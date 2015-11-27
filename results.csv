@@ -170,3 +170,27 @@ Voorgeschiedenis: myocard infarct, PCI, hyperlipidemie, hypertensie, DM, OSAS wa
 19	klachten	klacht	[klacht][en]	N(soort,mv,basis)	0.999726	O	I-NP		
 20	.	.	[.]	LET()	1.000000	O	O		
 
+text 5leucocyten count 2*10^-3.
+Bij voorgaande testen was de LDL 2.1mmol/L
+1	leucocyten	leucocyt	[leucocyt][en]	N(soort,mv,basis)	0.643877	O	B-NP		
+2	count	count	[count]	SPEC(vreemd)	1.000000	O	B-VP		
+3	2	2	[2]	TW(hoofd,vrij)	0.582751	O	B-NP		
+4	*	*	[*]	LET()	1.000000	O	I-NP		
+5	10	10	[10]	TW(hoofd,prenom,stan)	0.677411	O	I-NP		
+6	^	^	[^]	LET()	1.000000	O	B-NP		
+7	-3	-3	[-3]	SPEC(symb)	1.000000	O	B-NP		
+8	.	.	[.]	LET()	1.000000	O	O		
+
+1	Bij	bij	[bij]	VZ(init)	0.992189	O	B-PP		
+2	voorgaande	voorgaan	[voor][ga][d][e]	WW(od,prenom,met-e)	0.790000	O	B-NP		
+3	testen	testen	[test][en]	WW(inf,vrij,zonder)	0.583333	O	B-VP		
+4	was	zijn	[zijn]	WW(pv,verl,ev)	0.996560	O	B-VP		
+5	de	de	[de]	LID(bep,stan,rest)	0.997183	O	B-NP		
+6	LDL	LDL	[LDL]	SPEC(deeleigen)	1.000000	B-ORG	I-NP		
+7	2	2	[2]	TW(hoofd,vrij)	0.866667	I-ORG	I-NP		
+8	.	.	[.]	LET()	1.000000	O	O		
+
+1	1mmol	1mmol	[1m][mol]	N(soort,ev,basis,zijd,stan)	0.362539	O	B-NP		
+2	/	/	[/]	LET()	1.000000	O	O		
+3	L	L	[L]	SPEC(symb)	1.000000	O	B-NP		
+
