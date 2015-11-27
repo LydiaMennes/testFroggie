@@ -7,6 +7,6 @@ text = "CARDIALE VOORGESCHIEDENIS: 1991 myocardinfarct, onderwand. 23-09-2009: v
 sent_detector = nltk.data.load('tokenizers/punkt/dutch.pickle')
 froggie = frog.Frog(frog.FrogOptions(parser=False), "/etc/frog/frog.cfg")
 
-with codecs.open("","w","utf-8") as of:
+with codecs.open("results.txt","w","utf-8") as of:
 	for s in sent_detector.tokenize(text.strip()):
 		of.write(froggie.process_raw(s))
