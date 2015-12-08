@@ -1,0 +1,579 @@
+1	Distigmine	distigmine	[distig][mine]	N(soort,ev,basis,zijd,stan)	0.669745	O	B-NP	2	su
+2	bromide	bromide	[bromide]	WW(pv,verl,ev)	0.843881	O	B-VP	0	ROOT
+3	5mg	5mg	[5mg]	SPEC(symb)	1.000000	O	B-NP	4	mod
+4	tablet	tablet	[tablet]	N(soort,ev,basis,onz,stan)	0.600000	O	I-NP	2	su
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Gravidarum_Chorea	Gravidarum_Chorea	[Gravidarum]_[Chorea]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	B-PER_I-PER	B-NP_I-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	Antiallergenic	Antiallergenic	[Antiallergenic]	SPEC(deeleigen)	1.000000	B-PER	B-NP	2	mod
+2	drug	drug	[drug]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	0	ROOT
+3	overdose	overdose	[over][dose]	N(soort,ev,basis,zijd,stan)	0.760946	O	B-VP	2	obj1
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Sebaceous	sebaceous	[sebaceous]	ADJ(vrij,basis,zonder)	0.593992	B-ORG	B-NP	2	mod
+2	gland	gland	[gland]	WW(od,vrij,zonder)	0.413110	I-ORG	B-VP	3	mod
+3	DO	do	[do]	N(soort,ev,basis,zijd,stan)	0.994581	I-ORG	B-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Amblyomma	amblyomma	[amblyomma]	N(soort,ev,basis,onz,stan)	0.525136	O	B-NP	0	ROOT
+2	cajennense	cajennense	[cajennense]	N(soort,ev,basis,zijd,stan)	0.525965	O	I-NP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Forging-press	Forging-press	[Forging-press]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	operator	operator	[operator]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Admission	Admission	[Admission]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	by	by	[by]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	general	general	[general]	SPEC(vreemd)	1.000000	B-PRO	B-NP	0	ROOT
+4	physician	physician	[physician]	SPEC(vreemd)	1.000000	I-PRO	I-NP	0	ROOT
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Hashimoto	hashimoto	[hashimoto]	N(soort,ev,basis,zijd,stan)	0.842960	O	B-NP	0	ROOT
+2	ziekte	ziekte	[ziek][te]	N(soort,ev,basis,zijd,stan)	0.989848	O	I-NP	1	mod
+3	van	van	[van]	VZ(fin)	0.866995	O	B-PP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Chronic	Chronic	[Chronic]	SPEC(deeleigen)	1.000000	B-PER	B-NP	2	det
+2	hydrops	hydrops	[hydrop][s]	N(soort,mv,basis)	0.439470	O	I-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Adult	adult	[adult]	WW(pv,tgw,met-t)	0.534752	O	B-NP	0	ROOT
+2	metachromatic	metachromatic	[metachromatic]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	leukodystrophy	leukodystrophy	[leukodystrophy]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	H	h	[h]	N(soort,ev,basis,zijd,stan)	0.714286	O	B-NP	0	ROOT
+2	/	/	[/]	LET()	1.000000	O	I-NP	1	punct
+3	O	o	[o]	TSW()	0.468750	O	I-NP	0	ROOT
+4	-	-	[-]	LET()	1.000000	O	O	3	punct
+5	retinal	retinal	[retinal]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+6	detachment	detachment	[detachment]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+7	.	.	[.]	LET()	1.000000	O	O	6	punct
+
+1	Ocular	Ocular	[Ocular]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	operation	operation	[operation]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Inferior	Inferior	[Inferior]	SPEC(deeleigen)	1.000000	O	B-NP	4	cnj
+2	mesenteric	mesenteric	[mesenteric]	SPEC(vreemd)	1.000000	O	I-NP	1	mod
+3	artery	artery	[artery]	SPEC(vreemd)	1.000000	O	I-NP	1	mod
+4	embolus	embolus	[embolus]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Entire	Entire	[Entire]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	intervertebral	intervertebral	[intervertebral]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	foramen	foramen	[foramen]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	of	of	[of]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+5	second	second	[second]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+6	lumbar	lumbar	[lumbar]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+7	vertebra	vertebra	[vertebra]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+8	.	.	[.]	LET()	1.000000	O	O	7	punct
+
+1	Salmonella	salmonella	[salmonella]	N(soort,ev,basis,zijd,stan)	0.755285	B-PER	B-NP	0	ROOT
+2	enterica	enterica	[enterica]	N(soort,ev,basis,zijd,stan)	0.872124	O	I-NP	1	mod
+3	subsp	subsp	[sub][sp]	N(soort,ev,basis,zijd,stan)	0.605990	O	I-NP	2	mod
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	enterica	enterica	[enterica]	N(soort,ev,basis,zijd,stan)	0.901356	O	B-NP	0	ROOT
+2	ser.	ser.	[ser.]	SPEC(afk)	1.000000	O	B-NP	1	app
+3	Abadina	Abadina	[Abadina]	SPEC(deeleigen)	1.000000	B-PER	B-NP	2	obj1
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Hb	hb	[hb]	N(soort,ev,basis,zijd,stan)	0.390938	O	B-NP	0	ROOT
+2	64	64	[64]	TW(hoofd,vrij)	0.920000	O	I-NP	1	app
+3	(	(	[(]	LET()	1.000000	O	O	2	punct
+4	E13	E13	[E13]	SPEC(symb)	1.000000	B-LOC	B-NP	2	cnj
+5	)	)	[)]	LET()	1.000000	O	O	4	punct
+6	-	-	[-]	LET()	1.000000	O	O	4	punct
+7	Asp-tyr	Asp-tyr	[Asp-tyr]	SPEC(deeleigen)	1.000000	B-MISC	B-NP	0	ROOT
+8	.	.	[.]	LET()	1.000000	O	O	7	punct
+
+1	Lower	Lower	[Lower]	SPEC(deeleigen)	1.000000	O	B-NP	4	cnj
+2	middle	middle	[middle]	SPEC(vreemd)	1.000000	O	B-VP	1	mod
+3	class	class	[class]	SPEC(vreemd)	1.000000	B-PRO	B-NP	1	mod
+4	economic	economic	[economic]	SPEC(vreemd)	1.000000	I-PRO	I-NP	0	ROOT
+5	status	status	[status]	SPEC(vreemd)	1.000000	I-PRO	I-NP	0	ROOT
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Ganglion-blocking	ganglion-blocking	[ganglion-blocking]	N(soort,ev,basis,zijd,stan)	0.824528	O	B-NP	0	ROOT
+2	drug	drug	[drug]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	1	mod
+3	adverse	advers	[ad][vers][e]	ADJ(prenom,basis,met-e,stan)	0.507540	O	I-NP	4	mod
+4	reaction	reaction	[re][action]	N(soort,ev,basis,zijd,stan)	0.827893	O	I-NP	2	mod
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Realignment	realignment	[realignment]	N(soort,ev,basis,zijd,stan)	0.384054	O	B-NP	4	cnj
+2	and	and	[and]	SPEC(vreemd)	1.000000	O	I-NP	3	mod
+3	suture	suture	[suture]	SPEC(vreemd)	1.000000	O	I-NP	4	cnj
+4	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	0	ROOT
+5	posterior	posterior	[posterior]	N(soort,ev,basis,zijd,stan)	0.935983	O	B-NP	4	cnj
+6	urethra	urethra	[urethra]	N(soort,ev,basis,zijd,stan)	0.985507	O	I-NP	4	cnj
+7	.	.	[.]	LET()	1.000000	O	O	6	punct
+
+1	Strengths	Strengths	[Strengths]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	and	and	[and]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	difficulties	difficulties	[difficulties]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	questionnaire	questionnaire	[questionnaire]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Pacing	pacing	[pacing]	N(soort,ev,basis,zijd,stan)	0.964426	O	B-NP	0	ROOT
+2	/	/	[/]	LET()	1.000000	O	O	1	punct
+3	defibrillation	defibrillation	[defibrillation]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+4	lead	lead	[lead]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+5	setscrew	setscrew	[setscrew]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Nocardia_ignorata	Nocardia_ignorata	[Nocardia]_[ignorata]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	O_O	B-NP_I-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	Pigments	pigments	[pigment][s]	N(soort,ev,basis,zijd,stan)	0.704052	O	B-NP	0	ROOT
+2	Bile	Bile	[Bile]	SPEC(deeleigen)	1.000000	B-PER	B-NP	1	app
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Myxoedema	Myxoedema	[Myxoedema]	SPEC(deeleigen)	1.000000	O	B-NP	2	det
+2	coma	coma	[coma]	N(soort,ev,basis,zijd,stan)	0.750000	O	I-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Faeces	faeces	[faeces]	N(soort,mv,basis)	0.642320	O	B-NP	0	ROOT
+2	symptom	symptom	[symptom]	N(soort,ev,basis,zijd,stan)	0.932263	O	I-NP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Retrobulbar	retrobulbar	[retrobul][bar]	N(soort,ev,basis,onz,stan)	0.332963	O	B-NP	3	mod
+2	neurolytic	neurolytic	[neurolytic]	SPEC(vreemd)	1.000000	O	I-NP	3	mod
+3	injection	injection	[injection]	SPEC(vreemd)	1.000000	O	B-VP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Laundry	Laundry	[Laundry]	SPEC(vreemd)	1.000000	B-PER	B-NP	0	ROOT
+2	/	/	[/]	LET()	1.000000	O	I-NP	1	punct
+3	linen	line	[line][n]	N(soort,mv,basis)	0.415351	O	I-NP	1	mod
+4	trolley	trolley	[trolley]	N(soort,ev,basis,zijd,stan)	0.957746	O	I-NP	3	mod
+5	cover	cover	[cover]	N(soort,ev,basis,zijd,stan)	0.827471	O	I-NP	4	mod
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Epididymitis	epididymitis	[epididymitis]	N(soort,ev,basis,zijd,stan)	0.631924	O	B-NP	0	ROOT
+2	door	door	[door]	VZ(init)	0.996154	O	B-PP	1	mod
+3	Chlamydia	chlamydia	[ch][lamy][dium]	N(soort,ev,basis,zijd,stan)	0.994581	B-PER	B-NP	2	obj1
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Atypical	atypical	[atypical]	ADJ(vrij,basis,zonder)	0.465217	O	B-ADJP	2	mod
+2	epidermoid	epidermoiden	[epidermoi][d]	WW(vd,vrij,zonder)	0.355046	O	I-ADJP	3	mod
+3	metaplasia	metaplasia	[metaplasia]	N(soort,mv,basis)	0.547718	O	B-VP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Facial	Facial	[Facial]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	profile	profile	[profile]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	convex	convex	[convex]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Morquioe_protein	Morquioe_protein	[Morquioe]_[protein]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	O_O	B-NP_I-NP	2	mod
+2	human	human	[human]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Adverse	advers	[ad][vers][e]	ADJ(prenom,basis,met-e,stan)	0.838814	O	B-NP	3	mod
+2	reaction	reaction	[reaction]	SPEC(vreemd)	1.000000	O	I-NP	3	mod
+3	to	to	[to]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	antifungal	antifungal	[antifungal]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+5	ABX	ABX	[ABX]	SPEC(deeleigen)	1.000000	B-ORG	B-NP	4	cnj
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Rectal	rectal	[rectal]	N(soort,ev,basis,onz,stan)	0.759113	O	B-ADVP	0	ROOT
+2	fistula	fistula	[fistula]	N(soort,ev,basis,zijd,stan)	0.863168	O	B-VP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Accidental	Accidental	[Accidental]	SPEC(vreemd)	1.000000	O	B-ADJP	0	ROOT
+2	tetracycline	tetracycline	[tetracycline]	SPEC(vreemd)	1.000000	O	I-ADJP	0	ROOT
+3	poisoning	poisoning	[poisoning]	SPEC(vreemd)	1.000000	O	B-VP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Flatfishes	Flatfishes	[Flatfishes]	SPEC(deeleigen)	1.000000	O	B-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	pT	pT	[pT]	SPEC(symb)	1.000000	O	B-NP	2	det
+2	2c	2c	[2c]	SPEC(symb)	1.000000	O	B-NP	0	ROOT
+3	-	-	[-]	LET()	1.000000	O	I-NP	2	punct
+4	Bilateral	Bilateral	[Bilateral]	SPEC(vreemd)	1.000000	B-PER	I-NP	0	ROOT
+5	disease	disease	[disease]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+6	(	(	[(]	LET()	1.000000	O	O	5	punct
+7	prostate	prostate	[prostate]	N(soort,ev,basis,zijd,stan)	0.481834	O	B-NP	5	mod
+8	)	)	[)]	LET()	1.000000	O	O	7	punct
+9	.	.	[.]	LET()	1.000000	O	O	7	punct
+
+1	Neoplasm	neoplasm	[neo][plasm]	N(soort,ev,basis,zijd,stan)	0.692986	O	B-NP	2	cnj
+2	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	0	ROOT
+3	female	femaal	[fe][maal][e]	ADJ(prenom,basis,met-e,stan)	1.000000	O	B-NP	4	mod
+4	breast	breast	[breast]	N(soort,ev,basis,zijd,stan)	1.000000	O	I-NP	2	cnj
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Alkalies	alkalie	[alkalie][s]	N(soort,mv,basis)	0.784214	O	B-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	Outpatient	outpatient	[out][peer][atient]	N(soort,ev,basis,zijd,stan)	0.342442	O	B-ADVP	0	ROOT
+2	freestanding	freestanding	[freestanding]	N(soort,ev,basis,zijd,stan)	1.000000	O	B-NP	1	mod
+3	dialysis	dialysis	[dialysis]	SPEC(vreemd)	1.000000	O	I-NP	2	app
+4	treatment	treatment	[treatment]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+5	facility	facility	[facility]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Proximal	proximal	[proximal]	N(soort,ev,basis,zijd,stan)	0.411776	O	B-NP	2	mod
+2	stomach	stomach	[stomach]	SPEC(vreemd)	1.000000	O	I-NP	3	mod
+3	structure	structure	[structure]	SPEC(vreemd)	1.000000	B-MISC	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	No	No	[No]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	post-activation	post-activation	[post-activation]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	response	response	[response]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Intraoperative_electroencephalogram	Intraoperative_electroencephalogram	[Intraoperative]_[electroencephalogram]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	O_O	B-NP_I-NP	0	ROOT
+2	-	-	[-]	LET()	1.000000	O	O	1	punct
+3	cerebral	cerebral	[cerebral]	SPEC(vreemd)	1.000000	O	B-VP	0	ROOT
+4	function	function	[function]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+5	analyzing	analyzing	[analyzing]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+6	monitor	monitor	[monitor]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+7	.	.	[.]	LET()	1.000000	O	O	6	punct
+
+1	NARP	NARP	[NARP]	SPEC(deeleigen)	1.000000	B-LOC	B-NP	0	ROOT
+2	-	-	[-]	LET()	1.000000	O	O	1	punct
+3	Neurogenic_muscle_weakness	Neurogenic_muscle_weakness	[Neurogenic]_[muscle]_[weakness]	SPEC(deeleigen)_SPEC(deeleigen)_SPEC(deeleigen)	1.000000	B-LOC_O_O	B-NP_I-NP_I-NP	1	mod
+4	-	-	[-]	LET()	1.000000	O	O	3	punct
+5	ataxia	ataxia	[ataxia]	N(soort,mv,basis)	0.308715	O	B-NP	6	cnj
+6	and	and	[and]	SPEC(vreemd)	1.000000	O	I-NP	7	mod
+7	retinitis	retinitis	[retinitis]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+8	pigmentosa	pigmentosa	[pigmentosa]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+9	.	.	[.]	LET()	1.000000	O	O	8	punct
+
+1	Genus_Geochelone	Genus_Geochelone	[Genus]_[Geochelone]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	B-PER_I-PER	B-NP_I-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	Euro	euro	[Euro]	N(soort,ev,basis,zijd,stan)	0.659751	O	B-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	Arabic_numeral	Arabic_numeral	[Arabic]_[numeral]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	O_O	B-NP_I-NP	0	ROOT
+2	32	32	[32]	TW(hoofd,vrij)	1.000000	O	B-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Familial	familial	[familial]	ADJ(vrij,basis,zonder)	0.587438	O	B-NP	2	mod
+2	proximal	proximal	[proximal]	ADJ(vrij,basis,zonder)	0.480901	O	I-NP	3	mod
+3	renal	renal	[renal]	ADJ(vrij,basis,zonder)	0.590582	O	I-NP	5	mod
+4	tubular	tubular	[tubular]	ADJ(vrij,basis,zonder)	0.982328	O	I-NP	5	None
+5	acidosis	acidosis	[acidosis]	SPEC(vreemd)	1.000000	O	B-VP	0	ROOT
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	GOLD	gold	[gold]	N(soort,ev,basis,onz,stan)	0.299597	O	B-NP	0	ROOT
+2	CPDS	CPDS	[CPDS]	SPEC(deeleigen)	1.000000	O	I-NP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	putrescine-alpha-ketoglutarate	putrescine-alpha-ketoglutaraat	[putrescine][alp][ha-ketoglutaraat][e]	ADJ(prenom,basis,met-e,stan)	0.609763	O	B-NP	2	mod
+2	aminotransferase	aminotransferase	[aminotransfe][rase]	N(soort,ev,basis,zijd,stan)	1.000000	O	I-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Dental	dental	[den][tal]	N(soort,ev,basis,onz,stan)	0.684441	O	B-ADVP	0	ROOT
+2	aid	aiden	[ai][d]	WW(vd,vrij,zonder)	0.781462	O	B-VP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Sebastes	sebaste	[sebast][e][s]	N(soort,mv,basis)	0.877157	O	B-NP	0	ROOT
+2	hopkinsi	hopkinsi	[hop][k][insi]	N(soort,ev,basis,zijd,stan)	0.749566	O	B-ADJP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	protease	protease	[protease]	N(soort,ev,basis,zijd,stan)	0.761193	O	B-NP	0	ROOT
+2	Glu-C	glu-c	[glu-c]	N(soort,ev,basis,zijd,stan)	0.632276	B-MISC	I-NP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Benign	benign	[benign]	ADJ(postnom,basis,met-s)	0.481295	O	B-NP	0	ROOT
+2	neoplasm	neoplasm	[neo][plasm]	N(soort,ev,basis,zijd,stan)	0.524846	O	I-NP	3	cnj
+3	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	0	ROOT
+4	thoracic	thoracic	[thoracic]	N(soort,ev,basis,zijd,stan)	0.599704	O	B-NP	3	cnj
+5	vertebra	vertebra	[vertebra]	N(soort,ev,basis,zijd,stan)	0.794081	O	B-VP	3	cnj
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Absent	Absent	[Absent]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	from	from	[from]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	work	work	[work]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	or	or	[or]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+5	school	school	[school]	N(soort,ev,basis,zijd,stan)	0.997492	O	O	6	mod
+6	due	due	[due]	SPEC(vreemd)	1.000000	O	B-NP	4	cnj
+7	to	to	[to]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+8	asthma	asthma	[asthma]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+9	.	.	[.]	LET()	1.000000	O	O	8	punct
+
+1	Salivary	Salivary	[Salivary]	SPEC(deeleigen)	1.000000	B-PER	B-NP	2	su
+2	duct	duct	[duct]	WW(pv,tgw,met-t)	0.382933	O	I-NP	0	ROOT
+3	patency	patency	[paat][ency]	N(soort,ev,basis,zijd,stan)	0.419591	O	I-NP	2	obj1
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Arabic_numeral	Arabic_numeral	[Arabic]_[numeral]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	O_O	B-NP_I-NP	0	ROOT
+2	38	38	[38]	TW(hoofd,vrij)	0.942308	O	I-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Body_nutrition_excess	Body_nutrition_excess	[Body]_[nutrition]_[excess]	SPEC(deeleigen)_SPEC(deeleigen)_SPEC(deeleigen)	1.000000	B-ORG_O_O	B-NP_I-NP_I-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	Frontometaphyseal	frontometaphyseal	[frontometap][hyseal]	N(soort,ev,basis,zijd,stan)	0.499953	O	B-NP	0	ROOT
+2	dysplasia	dysplasia	[dysplasia]	N(soort,mv,basis)	0.413954	O	I-NP	1	app
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Aspiration	Aspiration	[Aspiration]	SPEC(vreemd)	1.000000	O	B-NP	2	cnj
+2	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	0	ROOT
+3	blood	blood	[blood]	N(soort,ev,basis,zijd,stan)	0.588600	O	B-NP	2	cnj
+4	in	in	[in]	VZ(init)	0.931125	O	B-PP	3	mod
+5	newborn	newborn	[new][born]	N(soort,mv,basis)	0.503475	O	B-NP	4	obj1
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Disabilities	disabilitie	[disabilitie][s]	N(soort,mv,basis)	0.839165	O	B-NP	2	cnj
+2	of	of	[of]	VG(neven)	1.000000	O	B-CONJP	0	ROOT
+3	the	the	[the]	SPEC(vreemd)	1.000000	O	B-NP	4	mod
+4	arm	arm	[arm]	SPEC(vreemd)	1.000000	O	I-NP	2	cnj
+5	shoulder	shoulder	[shoulder]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+6	and	and	[and]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+7	hand	hand	[hand]	N(soort,ev,basis,zijd,stan)	0.996849	O	I-NP	9	su
+8	outcome	outcome	[outcome]	N(soort,ev,basis,onz,stan)	0.469695	O	B-VP	9	su
+9	measurement	measurement	[measurement]	WW(pv,tgw,met-t)	0.500412	O	B-ADJP	0	ROOT
+10	sports	sports	[sport][s]	N(soort,ev,basis,zijd,stan)	0.734484	O	I-ADJP	9	obj1
+11	/	/	[/]	LET()	1.000000	O	O	10	punct
+12	performing	performing	[per][form][ing]	N(soort,ev,basis,zijd,stan)	1.000000	O	B-NP	9	obj1
+13	arts	arts	[arts]	N(soort,ev,basis,zijd,stan)	0.986294	O	I-NP	12	app
+14	module	module	[module]	N(soort,ev,basis,zijd,stan)	0.986294	O	B-NP	9	obj1
+15	score	score	[score]	N(soort,ev,basis,zijd,stan)	0.985507	O	I-NP	9	predc
+16	.	.	[.]	LET()	1.000000	O	O	15	punct
+
+1	Hang	hangen	[hang]	WW(pv,tgw,ev)	0.993151	O	B-NP	0	ROOT
+2	glider	glider	[glider]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	accident	accident	[accident]	SPEC(vreemd)	1.000000	O	B-VP	0	ROOT
+4	on	on	[on]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+5	take	take	[take]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+6	off	off	[off]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+7	.	.	[.]	LET()	1.000000	O	O	6	punct
+
+1	Entamoeba	entamoeba	[entamoe][ba]	N(soort,ev,basis,zijd,stan)	0.404329	O	B-NP	0	ROOT
+2	wenyoni	wenyoni	[wen][yoni]	N(soort,ev,basis,zijd,stan)	0.725479	O	I-NP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Institutionaliserings	institutionaliserings	[institutionaliserings]	ADJ(vrij,basis,zonder)	0.536348	O	B-ADJP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	Referral	Referral	[Referral]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	from	from	[from]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	pediatric	pediatric	[pediatric]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	intensive_care	intensive_care	[intensive]_[care]	SPEC(vreemd)_SPEC(vreemd)	1.000000	O_O	I-NP_I-NP	3	obj1
+5	specialist	specialist	[specialist]	SPEC(vreemd)	1.000000	O	I-NP	4	mod
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Mastopexy	Mastopexy	[Mastopexy]	SPEC(deeleigen)	1.000000	B-PER	B-NP	2	mod
+2	lateralising	lateralising	[lateralis][ing]	N(soort,ev,basis,zijd,stan)	0.460837	O	I-NP	0	ROOT
+3	technique	technique	[technique]	SPEC(vreemd)	1.000000	O	I-NP	2	app
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Epileptic	Epileptic	[Epileptic]	SPEC(deeleigen)	1.000000	B-ORG	B-NP	2	det
+2	DO	do	[do]	N(soort,ev,basis,zijd,stan)	0.818182	I-ORG	I-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Injury	Injury	[Injury]	SPEC(vreemd)	1.000000	O	B-NP	2	su
+2	at	eten	[eet]	WW(pv,verl,ev)	0.785714	O	I-NP	0	ROOT
+3	T	t	[t]	N(soort,ev,basis,zijd,stan)	0.755285	O	I-NP	2	predc
+4	1-T	1-T	[1-T]	SPEC(symb)	1.000000	O	I-NP	3	app
+5	6	6	[6]	SPEC(vreemd)	1.000000	O	I-NP	2	su
+6	level	level	[level]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+7	with	with	[with]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+8	spinal	spinal	[spinal]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+9	cord	cord	[cord]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+10	injury	injury	[injury]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+11	AND	AND	[AND]	SPEC(deeleigen)	1.000000	B-ORG	I-NP	10	cnj
+12	without	without	[without]	SPEC(vreemd)	1.000000	O	B-NP	11	mod
+13	bone	bone	[bone]	SPEC(vreemd)	1.000000	O	I-NP	11	mod
+14	injury	injury	[injury]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+15	.	.	[.]	LET()	1.000000	O	O	14	punct
+
+1	Bones_Hand	Bones_Hand	[Bones]_[Hand]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	O_B-PER	B-NP_B-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	O	o	[o]	TSW()	0.468750	O	B-TSW	0	ROOT
+2	/	/	[/]	LET()	1.000000	O	O	1	punct
+3	E	e	[e]	N(soort,ev,basis,zijd,stan)	0.500000	O	B-NP	0	ROOT
+4	-	-	[-]	LET()	1.000000	O	I-NP	3	punct
+5	sign	sign	[sign]	SPEC(vreemd)	1.000000	O	I-NP	3	mod
+6	-	-	[-]	LET()	1.000000	O	O	5	punct
+7	SQ	SQ	[SQ]	SPEC(deeleigen)	1.000000	B-MISC	B-NP	5	obj1
+8	.	.	[.]	LET()	1.000000	O	O	7	punct
+
+1	Hyporeninemic	Hyporeninemic	[Hyporeninemic]	SPEC(deeleigen)	1.000000	O	B-NP	2	det
+2	hypoaldosteronism	hypoaldosteronism	[hypoaldosteronism]	N(soort,ev,basis,zijd,stan)	0.276967	O	B-VP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	E	e	[e]	N(soort,ev,basis,zijd,stan)	0.755285	O	B-NP	0	ROOT
+2	Selectin	Selectin	[Selectin]	SPEC(deeleigen)	1.000000	B-PER	I-NP	1	app
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Mycobacterium	mycobacterium	[mycobacterium]	N(soort,ev,basis,onz,stan)	0.726556	O	B-NP	0	ROOT
+2	confluentis	confluentis	[confluentis]	SPEC(vreemd)	1.000000	O	B-ADVP	1	app
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Jewish	Jewish	[Jewish]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	faith	faith	[faith]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Tuberculose	tuberculose	[tuberculose]	N(soort,ev,basis,zijd,stan)	0.992385	O	B-NP	0	ROOT
+2	milt	milt	[milt]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	3	cnj
+3	-.	-.	[-.]	SPEC(afk)	1.000000	O	O	1	mod
+4	Chlamydia	chlamydia	[ch][lamy][dium]	N(soort,ev,basis,zijd,stan)	0.992385	B-PER	B-NP	3	obj1
+5	sp	sp	[sp]	N(soort,ev,basis,zijd,stan)	0.393208	O	B-VP	4	obj1
+6	identified	identified	[identified]	N(soort,ev,basis,onz,stan)	0.606726	O	I-VP	4	mod
+7	.	.	[.]	LET()	1.000000	O	O	6	punct
+
+1	Atresia	Atresia	[Atresia]	SPEC(deeleigen)	1.000000	O	B-NP	2	cnj
+2	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	0	ROOT
+3	pulmonary	pulmonary	[pulmonary]	SPEC(vreemd)	1.000000	O	B-NP	4	mod
+4	trunk	trunk	[trunk]	SPEC(vreemd)	1.000000	O	O	2	cnj
+5	with	with	[with]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+6	absent	absent	[absent]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+7	R	r	[r]	N(soort,ev,basis,zijd,stan)	0.755285	O	I-NP	8	mod
+8	pulmonary	pulmonary	[pulmonary]	SPEC(vreemd)	1.000000	O	I-NP	6	cnj
+9	artery	artery	[artery]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+10	.	.	[.]	LET()	1.000000	O	O	9	punct
+
+1	Skin	Skin	[Skin]	SPEC(deeleigen)	1.000000	O	B-NP	2	mod
+2	photosubtype	photosubtype	[photosubtype]	SPEC(vreemd)	1.000000	O	B-VP	0	ROOT
+3	IIb	IIb	[IIb]	SPEC(deeleigen)	1.000000	O	B-NP	2	cnj
+4	(	(	[(]	LET()	1.000000	O	O	3	punct
+5	initially	initially	[initially]	SPEC(vreemd)	1.000000	O	B-ADJP	3	mod
+6	always	always	[always]	SPEC(vreemd)	1.000000	O	I-ADJP	7	mod
+7	burn	burn	[burn]	SPEC(vreemd)	1.000000	O	B-VP	0	ROOT
+8	-	-	[-]	LET()	1.000000	O	O	7	punct
+9	eventual	eventual	[eventual]	SPEC(vreemd)	1.000000	O	B-ADJP	10	mod
+10	moderate	moderate	[moderate]	SPEC(vreemd)	1.000000	O	I-ADJP	7	mod
+11	tan	tan	[tan]	BW()	0.571429	O	B-VP	10	cnj
+12	)	)	[)]	LET()	1.000000	O	O	11	punct
+13	.	.	[.]	LET()	1.000000	O	O	11	punct
+
+1	Ventilator	ventilator	[ventileer][ator]	N(soort,ev,basis,zijd,stan)	0.740742	O	B-ADVP	2	obj1
+2	generated	generated	[generated]	WW(vd,vrij,zonder)	0.542784	O	B-VP	3	mod
+3	pressure	pressure	[pressure]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Acetylcysteine	acetylcysteine	[acetylcysteine]	N(soort,ev,basis,zijd,stan)	0.505026	O	B-NP	0	ROOT
+2	20	20	[20]	TW(hoofd,prenom,stan)	0.977778	O	I-NP	1	det
+3	%	%	[%]	LET()	1.000000	O	I-NP	2	punct
+4	eye	eye	[eye]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+5	drops	drops	[drops]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Left	Left	[Left]	SPEC(vreemd)	1.000000	O	B-VP	0	ROOT
+2	upper	upper	[upper]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+3	segment	segment	[segment]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Ipratropium	ipratropium	[i][pratropium]	N(soort,ev,basis,onz,stan)	0.388670	O	B-NP	2	su
+2	bromide	bromide	[bromide]	WW(pv,verl,ev)	0.766096	O	B-VP	0	ROOT
+3	0.03	0.03	[0.03]	SPEC(symb)	1.000000	O	B-NP	2	me
+4	%	%	[%]	LET()	1.000000	O	I-NP	3	punct
+5	spray	spray	[spray]	N(soort,ev,basis,zijd,stan)	0.998077	O	B-VP	2	obj1
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Employment	Employment	[Employment]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	medical	medical	[medical]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	examination	examination	[examination]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	report	report	[report]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Faeroes	faeroe	[fae][roe][s]	N(soort,mv,basis)	0.993181	O	B-NP	0	ROOT
+2	cattle	cattle	[cattle]	ADJ(prenom,basis,met-e,stan)	0.575670	O	B-NP	3	mod
+3	breed	breed	[breed]	ADJ(vrij,basis,zonder)	0.666667	O	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Zosteriform	zosteriform	[zosteriform]	N(soort,ev,basis,zijd,stan)	0.822161	O	B-ADJP	0	ROOT
+2	lentiginosis	lentiginosis	[lentig][inosis]	N(soort,mv,basis)	0.439926	O	I-ADJP	1	app
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Apical	apical	[apical]	ADJ(vrij,basis,zonder)	0.568148	O	B-ADVP	3	mod
+2	ballooning	ballooning	[ballooning]	SPEC(vreemd)	1.000000	O	B-NP	3	mod
+3	syndrome	syndrome	[syndrome]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Histologic	Histologic	[Histologic]	SPEC(deeleigen)	1.000000	O	B-NP	0	ROOT
+2	type	type	[type]	N(soort,ev,basis,onz,stan)	0.993932	O	I-NP	3	cnj
+3	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	1	mod
+4	inflammatory	inflammatory	[inflammeer][atory]	N(soort,ev,basis,zijd,stan)	0.751412	O	B-NP	3	cnj
+5	skin	skin	[skin]	BW()	0.998216	B-ORG	B-VP	6	mod
+6	DO	do	[do]	N(soort,ev,basis,zijd,stan)	0.994581	I-ORG	B-NP	0	ROOT
+7	.	.	[.]	LET()	1.000000	O	O	6	punct
+
+1	Microcalcifications	Microcalcifications	[Microcalcifications]	SPEC(deeleigen)	1.000000	O	B-NP	0	ROOT
+2	present	present	[present]	ADJ(vrij,basis,zonder)	0.638298	O	B-ADJP	1	mod
+3	in	in	[in]	VZ(init)	0.997337	O	B-PP	2	pc
+4	tumor	tumor	[tumor]	SPEC(vreemd)	1.000000	O	B-NP	3	obj1
+5	and	and	[and]	SPEC(vreemd)	1.000000	O	I-NP	6	mod
+6	non-neoplastic	non-neoplastic	[non-neoplastic]	SPEC(vreemd)	1.000000	O	I-NP	7	mod
+7	tissue	tissue	[tissue]	N(soort,ev,basis,zijd,stan)	0.523810	O	I-NP	4	app
+8	.	.	[.]	LET()	1.000000	O	O	7	punct
+
+1	Mucous	mucous	[mucous]	ADJ(vrij,basis,zonder)	0.734620	O	B-NP	2	mod
+2	membrane	membrane	[membrane]	N(soort,ev,basis,zijd,stan)	0.848307	O	I-NP	0	ROOT
+3	edema	edema	[edema]	N(soort,ev,basis,zijd,stan)	0.538367	O	I-NP	2	app
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	lambda-Immunoglobulin	lambda-immunoglobulin	[lambda][immunoglobul][in]	N(soort,ev,basis,onz,stan)	0.553003	O	B-NP	3	mod
+2	Light	Light	[Light]	SPEC(vreemd)	1.000000	B-ORG	B-NP	3	mod
+3	Chain	Chain	[Chain]	SPEC(vreemd)	1.000000	I-ORG	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Busulphan	Busulphan	[Busulphan]	SPEC(deeleigen)	1.000000	O	B-NP	5	su
+2	poisoning	poisoning	[poison][ing]	N(soort,ev,basis,zijd,stan)	0.546490	O	I-NP	3	cnj
+3	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	1	mod
+4	undetermined	undetermined	[undetermined]	WW(vd,vrij,zonder)	0.476850	O	B-NP	3	cnj
+5	intent	intent	[intent]	WW(pv,tgw,met-t)	0.457592	O	B-VP	0	ROOT
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	Venous	venous	[venous]	ADJ(vrij,basis,zonder)	0.752255	O	B-ADVP	2	mod
+2	sinus	sinus	[sinus]	N(soort,ev,basis,zijd,stan)	0.631197	O	B-VP	3	cnj
+3	of	of	[of]	VG(neven)	0.962963	O	B-CONJP	5	mod
+4	R	r	[r]	N(soort,ev,basis,zijd,stan)	0.882353	O	B-NP	3	cnj
+5	atrium	atrium	[atrium]	N(soort,ev,basis,onz,stan)	0.996268	O	B-VP	0	ROOT
+6	.	.	[.]	LET()	1.000000	O	O	5	punct
+
+1	No	No	[No]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	drug	drug	[drug]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	0	ROOT
+3	RXN	RXN	[RXN]	SPEC(deeleigen)	1.000000	B-LOC	B-NP	2	app
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Bypass	Bypass	[Bypass]	SPEC(vreemd)	1.000000	O	B-NP	2	cnj
+2	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	0	ROOT
+3	jejunum	jejunum	[je][junum]	N(soort,ev,basis,onz,stan)	0.594885	O	B-NP	2	cnj
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Epididymo-orchitis	Epididymo-orchitis	[Epididymo-orchitis]	SPEC(vreemd)	1.000000	O	B-ADVP	0	ROOT
+2	without	without	[without]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+3	abscess	abscess	[abscess]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	.	.	[.]	LET()	1.000000	O	O	3	punct
+
+1	Malignant	malignant	[maligneer][ant]	N(soort,ev,basis,zijd,stan)	0.759266	O	B-NP	0	ROOT
+2	tumor	tumor	[tumor]	N(soort,ev,basis,zijd,stan)	0.989583	O	I-NP	3	cnj
+3	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	1	mod
+4	prepuce	prepuce	[prepuce]	N(soort,ev,basis,zijd,stan)	0.685854	O	B-NP	3	cnj
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Acute	acute	[acute]	N(soort,ev,basis,zijd,stan)	0.287784	O	B-NP	0	ROOT
+2	osteomyelitis-metatarsal	osteomyelitis-metatarsal	[osteomyelitis][metatarsal]	N(soort,ev,basis,zijd,stan)	0.614578	O	I-NP	1	mod
+3	.	.	[.]	LET()	1.000000	O	O	2	punct
+
+1	Dithranol	dithranol	[dithranol]	ADJ(vrij,basis,zonder)	0.679119	O	B-ADVP	2	predc
+2	paste	passen	[pas][te]	WW(pv,verl,ev)	0.997655	O	B-VP	0	ROOT
+3	adverse	advers	[ad][vers][e]	ADJ(nom,basis,met-e,zonder-n,stan)	0.436482	O	B-NP	4	None
+4	reaction	reaction	[reaction]	SPEC(vreemd)	1.000000	O	I-NP	2	su
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	MRI	MRI	[MRI]	SPEC(deeleigen)	1.000000	B-LOC	B-NP	2	cnj
+2	of	of	[of]	VG(neven)	0.855677	O	B-CONJP	4	obj1
+3	parotid	parotid	[parotid]	N(soort,ev,basis,zijd,stan)	0.857743	O	B-NP	2	cnj
+4	gland	gland	[gland]	WW(vd,vrij,zonder)	0.831191	O	B-VP	0	ROOT
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
+1	Genus_Neovison	Genus_Neovison	[Genus]_[Neovison]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	B-PER_I-PER	B-NP_I-NP	0	ROOT
+2	.	.	[.]	LET()	1.000000	O	O	1	punct
+
+1	Virgo_intacta	Virgo_intacta	[Virgo]_[intacta]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	O_O	B-NP_I-NP	0	ROOT
+2	-	-	[-]	LET()	1.000000	O	O	1	punct
+3	contraception	contraception	[contraception]	N(soort,ev,basis,zijd,stan)	0.844312	O	B-NP	4	mod
+4	unnecessary	unnecessary	[un][ecessary]	N(soort,ev,basis,zijd,stan)	0.753795	O	B-CONJP	1	app
+5	.	.	[.]	LET()	1.000000	O	O	4	punct
+
