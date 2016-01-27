@@ -1,0 +1,13 @@
+info gekregen over BSN nummer en contactpersonen: BSN pte [PIN_BSN 123138877], contactpersonen broer en echtgenoot.
+Hij vertelt in het ziekenhuis te zijn in [CITY Amsterdam], en de provincie is 'diep in het station'.
+Vanaf 5 maart 2013 zagen wij enkele keren uw patient, dhr. [NAAM_ROEPNAAM Z.] [NAAM_GESLACHTSNAAM van der Made], geboren [BIRTH_DATE 14-12-1971], op onze polikliniek urologie van het Leids Universitair Medisch Centrum.
+Adres: [STRAAT Oranje nassau str] [HUISNUMMER 40], [ZIP 6431 KX], [CITY Everdam] tel. [PHONE_NR 06-13973882]    PO/  Ik zie een 18 jarige obese vrouw conform kalenderleeftijd met piercings in haar neus en lip.
+From: [NAAM_ROEPNAAM Erik] [NAAM_GESLACHTSNAAM Mastem] [EMAIL erikmastem12@hotmail.com]   Sent: dinsdag 4 oktober 2011 13:53  To: [NAAM_GESLACHTSNAAM Mast] , [NAAM_ROEPNAAM R.C.] (PSY)  Subject: 1,4  Beste dokter [NAAM_GESLACHTSNAAM Mast],  Mijn spiegel was gisteren 1,4.
+Voor die tijd was '[NAAM_ROEPNAAM Ferdinand] niet [NAAM_ROEPNAAM Ferdinand]'.
+Naam : [NAAM_ROEPNAAM Y.F.] [NAAM_GESLACHTSNAAM v Zetten]  Geboortedatum: [BIRTH_DATE 9-07-1995] BSN : [PIN_BSN 128138577]  Geslacht : V  Materiaal : Urine (ontvangen op 30-03-2011)  Indicatie : Verstandelijke of lichamelijke ontwikkelingsstoornis
+RvK 2nd opinion vanuit [CITY Nijmegen]    Voorgeschiedenis  aug 2009 [NAAM_ROEPNAAM M] [NAAM_GESLACHTSNAAM Graves]  2006 maagzweer    Medicatie  Soms nexium
+liesoperatie, knieoperatie  Dementie, woont op psychogeriatrische afdeling van [STRAAT v Elzenstraat].
+Hartelijke groeten,   [NAAM_ROEPNAAM Erik] en [NAAM_ROEPNAAM Martha] [NAAM_GESLACHTSNAAM Evers]  [STRAAT kastanjelaan] [HUISNUMMER 34]  [ZIP 1287PK] [CITY Amsterdam]
+Haar man [NAAM_ROEPNAAM Peter] is zondag [DEATH_DATE 23-12-2014] overleden.
+Toestemmingsformulier voor MCm ontvangen: Archief telefonisch niet bereikbaar, informatie per email opgevraagd ( [EMAIL kvanboom@home.nl] )
+HAP belt over pt (Dr. [NAAM_GESLACHTSNAAM Ekenhof] [PHONE_NR 020 1503364] ).
